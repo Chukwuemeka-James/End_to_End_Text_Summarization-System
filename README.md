@@ -23,7 +23,7 @@ https://github.com/Chukwuemeka-James/End_to_End_Text_Summarization-System.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n summary python=3.8 -y
+conda create -n summary python=3.10 -y
 ```
 
 ```bash
